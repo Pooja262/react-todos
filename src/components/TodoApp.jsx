@@ -7,7 +7,7 @@ import Profile from "@/routes/Profile";
 import Login from "@/routes/Login";
 import NotMatch from "@/routes/NotMatch";
 import Layout from "./Layout";
-import SinglePage from "@/routes/singlePage";
+import SinglePage from "@/routes/SinglePage";
 import ProtectedRoute from "./ProtectedRoute";
 const TodoApp = () => {
   return (
