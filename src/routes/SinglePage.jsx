@@ -4,7 +4,7 @@ const aboutData = [
     slug: "about-app",
     title: "About the app",
     description:
-      "This application lets us add to-dos, edit, and delete items. Log i to see the delete feature. It also persist to-dos in the browsers local storage for a subsequent visit.",
+      "This application lets us add to-dos, edit, and delete items. Log in to see the edit feature. It also persist to-dos in the browsers local storage for a subsequent visit.",
   },
   {
     slug: "about-developer",
